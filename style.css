@@ -489,13 +489,13 @@ p {
     padding-top: 40px;
   }
 
-  .about__majors {
+  .about__me {
     flex-direction: column;
     margin-top: 30px;
     margin-bottom: 0px;
   }
 
-  .major {
+  .about {
     margin-bottom: 30px;
   }
 
